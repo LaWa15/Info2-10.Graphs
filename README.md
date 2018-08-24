@@ -1,2 +1,2 @@
 # Info2-10.Graphs
-graphs and path finding
+find shortest and cheapest path in a graph
